@@ -1,5 +1,5 @@
-LoadingChatPageIdentifier : Loading your chats
-noramalAppIdentifier : https://static.whatsapp.net/rsrc.php/v4/y6/r/wa669aeJeom.png
+loadingChatPageIdentifier : Loading your chats
+normalAppIdentifier : https://static.whatsapp.net/rsrc.php/v4/y6/r/wa669aeJeom.png
 businessAppIdentifier : intro-md-beta-logo-light
 loginPageIdentifierText : Scan this QR code to link a device!
 fileUploadIndicator : emoji-input
